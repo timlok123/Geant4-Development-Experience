@@ -8,7 +8,11 @@ Detailed description of my work will be explained in the report attached.
 
 ## Content
 
+<<<<<<< HEAD
 1. [Report](./Implementation_of_Charge_Exchange_Process_in_Geant4.pdf) - detailed explanation on the design of the code, theory behind and the result I obtain. 
+=======
+1. [Report](".\Implementation_of_Charge_Exchange_Process_in_Geant4.pdf") - detailed explanation on the design of the code, theory behind and the result I obtain. 
+>>>>>>> 802fa3fe47925469359f1db66e733f105f956331
 
 ## Credit
 
