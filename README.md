@@ -8,8 +8,8 @@ Detailed description of my work will be explained in the report attached.
 
 ## Content
 
-1. [Report](".\Implementation_of_Charge_Exchange_Process_in_Geant4.pdf") - detailed explanation on the design of the code, theory behind and the result I obtain. 
+1. [Report](".\Implementation_of_Charge_Exchange_Process_in_Geant4.pdf") - detailed explanation on the design of the code, theory behind and the result I obtain. (You can also find the same report pdf in [CERN Server](http://cds.cern.ch/record/2878314))
 
 ## Credit
 
-I would also like to express my sincere gratitude to Prof Vladimir Ivanchenko for his support during my stay at CERN. It is all the inspiring discussion we have in the evening that contributes to the implementation of the code.
+I would also like to express my sincere gratitude to Prof Vladimir Ivanchenko for his support during my stay at CERN. It is all the inspiring discussion we have in the evening that contributes to the implementation of the code and it my pleasure to work under his supervision. 
